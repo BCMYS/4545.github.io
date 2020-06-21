@@ -1,7 +1,7 @@
 # BCMYS.github.io
 做网站
 <html>
-  <p>程序喵ω-_-ω是傻逼</p>
+  <p>程序喵ω-_-ω是大帅哥</p>
   <a href="https://shequ.codemao.cn/">编程猫</a>
      <h1>往下看</h1>
 <p>&nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp;&nbsp;</p>
